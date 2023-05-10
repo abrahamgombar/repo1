@@ -1,2 +1,4 @@
 Prueba en el documento 1
 
+Prueba de diff
+Prueba de diff
